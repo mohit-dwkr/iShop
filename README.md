@@ -30,5 +30,6 @@ It delivers a clean and modern shopping interface using **dummy product data** â
 - **React Router DOM**
 - **React Icons**
 
-- created by Mohit
+
+  created by Mohit
   
