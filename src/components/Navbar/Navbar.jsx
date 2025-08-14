@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { HiMenuAlt1 } from "react-icons/hi";
 import { HiMenuAlt3 } from "react-icons/hi";
 import ResponsiveMenu from './ResponsiveMenu';
-import { ShopContext } from '../../Context/ShopContext';
+import { ShopContext } from '../../context/ShopContext';
 
 
 
