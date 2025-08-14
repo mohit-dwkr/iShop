@@ -1,12 +1,34 @@
-# React + Vite
+# 🛒 iShop - Modern E-Commerce Frontend Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**iShop** is a fully responsive **E-commerce frontend Website** project built with **React.js**, **Tailwind CSS**, **React Router**, and **React Icons**.  
+It delivers a clean and modern shopping interface using **dummy product data** — perfect for showcasing frontend development skills without a backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🏷 **Category Pages** – Dedicated sections for **Men**, **Women**, and **Kids**.
+- 📦 **Product Listings** – Browse multiple products with dummy images, prices, and short descriptions.
+- 🔍 **Product Details Page** – View full details, select size, read reviews, check description & pricing.
+- 🛒 **Add to Cart** – Add your favorite products to the cart with ease.
+- 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop.
+- 🔐 **Login Page** – User login UI (frontend only, no backend).
+- 🎨 **Modern UI** – Minimal, clean, and user-friendly design with Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+🔗 **[Click here to view the live site](https://your-netlify-link.netlify.app/)**  
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **React Router DOM**
+- **React Icons**
+
+- created by Mohit
+- 
