@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import banner from '../assets/MensBanner.png'
-import { ShopContext } from '../Context/ShopContext';
+import { ShopContext } from '../context/ShopContext';
 import Item from '../components/Item';
 
 const Mens = () => {
