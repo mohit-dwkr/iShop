@@ -19,7 +19,7 @@ It delivers a clean and modern shopping interface using **dummy product data** �
 
 ## 🌐 Live Demo
 
-🔗 **[Click here to view the live site](https://your-netlify-link.netlify.app/)**  
+🔗 **[Click here to view the live site](https://ishop-by-mohit.netlify.app/)**  
 
 ---
 
